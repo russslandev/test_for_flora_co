@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/test_for_flora_co/static/css/main.8d5af8ef.css",
-    "main.js": "/test_for_flora_co/static/js/main.938bbe55.js",
+    "main.js": "/test_for_flora_co/static/js/main.52852dd4.js",
     "static/media/bg.svg": "/test_for_flora_co/static/media/bg.749747b68d7ee2208d8247c053935c9e.svg",
     "index.html": "/test_for_flora_co/index.html",
     "main.8d5af8ef.css.map": "/test_for_flora_co/static/css/main.8d5af8ef.css.map",
-    "main.938bbe55.js.map": "/test_for_flora_co/static/js/main.938bbe55.js.map"
+    "main.52852dd4.js.map": "/test_for_flora_co/static/js/main.52852dd4.js.map"
   },
   "entrypoints": [
     "static/css/main.8d5af8ef.css",
-    "static/js/main.938bbe55.js"
+    "static/js/main.52852dd4.js"
   ]
 }
